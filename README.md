@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Oleh 👋
 
-<!--
-**oleg-sec/oleg-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Cybersecurity & IT Student
+Passionate about Linux administration, network security, and cybersecurity fundamentals. Currently building my hands-on knowledge through **Hack The Box** and practical lab environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Tools
+- **OS & Environment:** Linux (Git Bash / WSL / Kali), Windows
+- **Security & Practice:** Hack The Box, TryHackMe, Network Fundamentals
+- **Tools & Workflow:** Git / GitHub, Obsidian, Bitwarden, VS Code
+
+---
+
+### 📈 GitHub Stats
+![Oleh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oleg-sec&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oleg-sec&layout=compact&theme=dark)
+
+---
+
+### 📫 Connect with Me
+- **GitHub:** [@oleg-sec](https://github.com/oleg-sec)
